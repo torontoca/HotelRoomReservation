@@ -1,0 +1,8 @@
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\CarRental\CarRental.Common\bin\Debug\RoomReservation.Common.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\CarRental\CarRental.Common\bin\Debug\RoomReservation.Common.pdb
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\CarRental\CarRental.Common\obj\Debug\RoomReservation.Common.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\CarRental\CarRental.Common\obj\Debug\RoomReservation.Common.pdb
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\RoomReservation.Common\bin\Debug\RoomReservation.Common.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\RoomReservation.Common\bin\Debug\RoomReservation.Common.pdb
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\RoomReservation.Common\obj\Debug\RoomReservation.Common.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\RoomReservation.Common\obj\Debug\RoomReservation.Common.pdb

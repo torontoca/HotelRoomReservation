@@ -1,0 +1,8 @@
+c:\users\larry\documents\visual studio 2013\Projects\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+c:\users\larry\documents\visual studio 2013\Projects\CarRental\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+c:\users\larry\documents\visual studio 2013\Projects\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+c:\users\larry\documents\visual studio 2013\Projects\CarRental\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb

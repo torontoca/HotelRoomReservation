@@ -1,0 +1,14 @@
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.pdb
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\CarRental\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.csprojResolveAssemblyReference.cache
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\CarRental\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\CarRental\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.pdb
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.Contracts.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\CarRental\Core.Common.ServiceModel\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.pdb
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\Core.Common.ServiceModel\bin\Debug\Core.Common.Contracts.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\Core.Common.ServiceModel\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.csprojResolveAssemblyReference.cache
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.dll
+C:\Users\Larry\Documents\Visual Studio 2013\Projects\RoomReservation\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.pdb
