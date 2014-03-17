@@ -1,0 +1,13 @@
+Requirements: 
+(1).Net framework 4.5, sql server express 2012
+(2)Visual studio 2012/2013 (old versions might work but weren't tested yet)
+
+Things to improve:
+(1)Take more time to research and design UI for improving visual effects
+(2)add more user functionalities to UI
+
+Things to add:
+(1) add stored procedures on sql server for the efficiency of data traffic between database and application
+(2) add caching mechanism for improving the performance
+(3) add asynchronous service calls to maximize performances and concurrencies
+(4) add logging mechanism
